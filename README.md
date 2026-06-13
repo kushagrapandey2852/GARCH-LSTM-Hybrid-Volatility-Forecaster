@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 GARCH-LSTM Hybrid Volatility Forecaster
+# 🌋 GARCH-LSTM Hybrid Volatility Forecaster
 
 ### Volatility Clustering • Deep Learning • Quantitative Forecasting
 
